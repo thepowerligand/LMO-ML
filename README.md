@@ -12,6 +12,6 @@ Table of Content:
 
 
 
-\b{Installation:}
+\b(Installation:)
 
 Operating system: windows 10, 64bit Software: R version 3.3.3
