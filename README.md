@@ -15,3 +15,15 @@ This repository contains all the R codes written specifically for contrusting  m
 # Installation:
 
 Operating system: windows 10, 64bit Software: R version 3.3.3
+
+
+# Instructions for use and expected output
+
+## Input: LMO.csv
+
+
+
+## Expected output
+
+
+# License
